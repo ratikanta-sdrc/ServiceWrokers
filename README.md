@@ -1,2 +1,2 @@
 # ServiceWrokers
-All the project having service service modification code 
+This repository has only project which has service worker associated
